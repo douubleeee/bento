@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'My music',
+					link: 'https://m.vk.com/audios414450033?section=my',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '13 карат',
+					link: 'https://m.vk.com/audio?act=audio_playlist414450033_35&from=%2Faudios414450033%3Fsection%3Dmy%26block%3Dmy_playlists%26back_url%3D%252Faudios414450033%253Fsection%253Dmy%26back_hash%3D11db2d0c0050f1e843',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Piano',
+					link: 'https://m.vk.com/audio?act=audio_playlist414450033_56&from=my_playlists&back_url=%2Faudios414450033%3Fsection%3Dmy&back_hash=11db2d0c0050f1e843&ref=PUlQVA8GR0R3W0tMF2tYRGpJUVQPAFpScl5ZRgYHR0RzSVNUWE1JSmRfS0wEGElXc0lTRxkWWVBkUV1HAQBeVnZYWgs',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Updates music',
+					link: 'https://m.vk.com/audio?section=updates',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Эл ЮУрГУ',
+					link: 'https://edu.susu.ru/login/index.php',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Сетевой город',
+					link: 'https://poo.susu.ru/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Chat GPT',
+					link: 'https://chadgpt.ru/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'DeepSeek',
+					link: 'https://chat.deepseek.com/',
 				},
 			],
 		},
