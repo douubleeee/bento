@@ -77,7 +77,7 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Pinterest',
+			name: 'pinterest',
 			icon: 'glasses',
 			link: 'https://ru.pinterest.com/',
 		},
