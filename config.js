@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://poo.susu.ru/',
 				},
 				{
-					name: 'Chat GPT',
-					link: 'Qwen Studio',
+					name: 'Qwen Studio',
+					link: 'https://chat.qwen.ai/',
 				},
 				{
 					name: 'DeepSeek',
