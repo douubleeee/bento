@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'My music',
-					link: 'https://m.vk.com/audios414450033?section=my',
+					link: 'https://music.yandex.ru/collection',
 				},
 				{
-					name: '13 карат',
-					link: 'https://m.vk.com/audio?act=audio_playlist414450033_35&from=%2Faudios414450033%3Fsection%3Dmy%26block%3Dmy_playlists%26back_url%3D%252Faudios414450033%253Fsection%253Dmy%26back_hash%3D11db2d0c0050f1e843',
+					name: '13 karat',
+					link: 'https://music.yandex.ru/playlists/34d77390-ea6d-bf97-ae9a-06cb6404aadd',
 				},
 				{
-					name: 'Piano',
-					link: 'https://m.vk.com/audio?act=audio_playlist414450033_56&from=my_playlists&back_url=%2Faudios414450033%3Fsection%3Dmy&back_hash=11db2d0c0050f1e843&ref=PUlQVA8GR0R3W0tMF2tYRGpJUVQPAFpScl5ZRgYHR0RzSVNUWE1JSmRfS0wEGElXc0lTRxkWWVBkUV1HAQBeVnZYWgs',
+					name: 'Marteen',
+					link: 'https://music.yandex.ru/playlists/0098a59b-dd8a-4ac7-acac-b687c35387e1',
 				},
 				{
-					name: 'Updates music',
-					link: 'https://m.vk.com/audio?section=updates',
+					name: 'Music releases',
+					link: 'https://music.yandex.ru/entities/new-releases/NEWRELEASES',
 				},
 			],
 		},
@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Chat GPT',
-					link: 'https://chadgpt.ru/',
+					link: 'Qwen Studio',
 				},
 				{
 					name: 'DeepSeek',
